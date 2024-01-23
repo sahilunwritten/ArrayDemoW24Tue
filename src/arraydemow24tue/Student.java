@@ -5,7 +5,7 @@
 package arraydemow24tue;
 
 /**
- *
+ * * This has been modified by Sahil on 23Jan at 12:47PM
  * @author Ronak
  */
 public class Student {
@@ -16,9 +16,6 @@ public class Student {
         this.sid = sid;
         this.sname = sname;
     }
-
-    
-    
     public int getSid() {
         return sid;
     }
